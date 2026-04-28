@@ -105,8 +105,8 @@ int main() {
   printf("Codigo da cidade: %c%s\n", estado2,codigo2);  // Sáida codigo da cidade 2 
   printf("Cidade: %s\n", cidade2);                      // Saída nome da cidade 2
   printf("População: %d\n", populacao2);                // Saída da numero de habitantes
-  printf("Área: %.2f \n", area2);                       // Saída da informações da área da cidade 2
-  printf("PIB: %.2f\n", pib2);                          // Saída informações do PIB da cidade 2
+  printf("Área: %.2f km²\n", area2);                       // Saída da informações da área da cidade 2
+  printf("PIB: %.2f bilhões de reais \n", pib2);                          // Saída informações do PIB da cidade 2
   printf("Número de pontos turisticos: %d\n", ponto2);  // Saída do número de potos turisticos
   printf("Densidade Populacional: %.2f hab/km²\n", densidadePopulacional2);
   printf("PIB per Capita: %.2f reais \n", pibCapita2);
